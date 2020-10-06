@@ -1,2 +1,3 @@
 temp file content
 temp file content line 2
+temp file content line 3
